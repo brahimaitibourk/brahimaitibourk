@@ -26,7 +26,11 @@ Here's a quick look at the technologies I work with:
 | Yarn            | ![Yarn](https://img.shields.io/badge/Yarn-000000?style=for-the-badge&logo=yarn&logoColor=2C8EBB) |
 | XAMPP           | ![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=apache&logoColor=D52B1E) |
 | PHP             | ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4) |
+| MySQL           | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00758F) |
 | phpMyAdmin      | ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-000000?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF) |
 | WordPress       | ![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=21759B) |
 | Drupal          | ![Drupal](https://img.shields.io/badge/Drupal-000000?style=for-the-badge&logo=drupal&logoColor=0077C5) |
 | GitTortoise     | ![GitTortoise](https://img.shields.io/badge/Git_Tortoise-000000?style=for-the-badge&logo=git&logoColor=F05032) |
+
+
+
